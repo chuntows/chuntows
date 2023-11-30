@@ -3,7 +3,7 @@
 Hello, my name is Trung. Currently I am studying at Duy Tan University.
 I am aiming to become a Full-Stack developer or Android developer<br>
 
-## 📫 How to reach me:
+## 📫 My information:
 
 ![ChunTows's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chuntows&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
