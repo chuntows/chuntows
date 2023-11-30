@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
 Hello, my name is Trung. Currently I am studying at Duy Tan University.
-I am aiming to become a Full-Stack developer and Android developer<br>
+I am aiming to become a Full-Stack developer or Android developer<br>
 
 ## 📫 How to reach me:
 
