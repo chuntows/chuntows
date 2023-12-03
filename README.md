@@ -11,3 +11,7 @@ I am aiming to become a Full-Stack developer or Android developer<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chuntows&repo=Milk-Page&theme=radical" />
 </a>
+<a href="https://github.com/chuntows/TheEarth/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chuntows&repo=TheEarth&theme=gruvbox" />
+</a>
