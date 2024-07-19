@@ -1,13 +1,13 @@
 # Hi everybody! 👋
 I'm Trung, a student at Duy Tan University.
 
-<img height="200" width="300" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<img height="180" width="280" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
 ## GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chuntows&show_icons=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide=contribs,prs,issues"         height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chuntows&show_icons=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide=contribs,prs,issues"         height="120" alt="stats graph"  />
   <img width="20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuntows&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chuntows&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="120" alt="languages graph"  />
 </div>
 
 ## Programming skills
