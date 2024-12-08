@@ -1,8 +1,8 @@
 <!-- introduce -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&vCenter=true&width=500&height=40&duration=4000&lines=Hi+everybody!+👋;+I'm+Trung,+a+student+at+Duy+Tan+University.&color=FFCCFF" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&vCenter=true&width=500&height=40&duration=4000&lines=Hi+everybody!+👋;+I'm+Trung,+a+programming+enthusiast.&color=FFCCFF" />
 <!-- image -->
 <div align="left">
-  <img height="180" width="280" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
+  <img height="200" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
 
 ## GitHub Statistics
@@ -30,5 +30,3 @@
 </div>
 
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/chuntows/chuntows/output/snake.svg" alt="Snake animation" />
