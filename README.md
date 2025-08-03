@@ -30,12 +30,12 @@
 <table align="center" style="border-collapse: collapse;">
   <tr>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuntows&theme=chartreuse-dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=chuntows&theme=chartreuse-dark&show_icons=true&count_private=true&title_color=8a2be2" alt="GitHub Stats" />
       <br><br>
 <!--       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chuntows&theme=chartreuse-dark&hide_border=false" /> -->
     </td>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chuntows&theme=chartreuse-dark&hide_border=false&langs_count=10" alt="Top Languages" />
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chuntows&theme=chartreuse-dark&hide_border=false&langs_count=10&title_color=8a2be2" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@
 </p>
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
-<div align="center">
+<div align="left">
   <img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" height="40" alt="javascript logo"  />
   <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" height="40" alt="C++ logo"  />
   <img src="https://img.icons8.com/?size=100&id=FRRACRKRsw2s&format=png&color=000000" height="40" alt="java logo"  />
@@ -57,7 +57,7 @@
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/trung.nguyen.1402?igsh=MTRpbzRhZWZsZTl4YQ%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000" alt="chun" height="40" width="40" /></a>
   <a href="https://discord.gg/chuntows" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=7ZiLZvoT0ICd&format=png&color=000000" alt="chun" height="40" width="40" /></a>
   <a href="https://www.facebook.com/trung.nguyen.1402" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=118501&format=png&color=000000" alt="chun" height="40" width="40" /></a>
