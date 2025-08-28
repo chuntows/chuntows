@@ -1,8 +1,3 @@
-<table align="center" border="4" cellpadding="20" cellspacing="0" style="border: 4px solid #00BFFF; border-radius: 20px; width: 100%;">
-
-<tr>
-<td>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2000&pause=700&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Trung+Nguyen!;⚡+Software+Engineer;🚀+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
@@ -53,6 +48,3 @@
   <img src="https://img.icons8.com/color/48/git.png" height="40" alt="Git" />
 </div>
 
-</td>
-</tr>
-</table>
