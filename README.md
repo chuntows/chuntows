@@ -35,7 +35,6 @@
 
 ## 🛠 Languages & Tools
 <div align="center">
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40" alt="C++" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40" alt="Java" />
   <img src="https://img.icons8.com/color/48/javascript.png" height="40" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/html-5.png" height="40" alt="HTML" />
