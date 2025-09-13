@@ -41,7 +41,7 @@
   <img src="https://img.icons8.com/color/48/css3.png" height="40" alt="CSS" />
   <img src="https://img.icons8.com/color/48/bootstrap.png" height="40" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/48/spring-logo.png" height="40" alt="Spring Boot" />
-  <img src="https://img.icons8.com/color/48/react-native.png" height="40" alt="React.js" />
+<!--   <img src="https://img.icons8.com/color/48/react-native.png" height="40" alt="React.js" /> -->
   <img src="https://img.icons8.com/color/48/mysql-logo.png" height="40" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/docker.png" height="40" alt="Docker" />
   <img src="https://img.icons8.com/color/48/git.png" height="40" alt="Git" />
