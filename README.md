@@ -68,8 +68,10 @@
 <p align="center">
   <img align="right" src="https://camo.githubusercontent.com/bef14fed80577c9297fe247a7740e66213a3ce956008ddd8a66e1c2de638ec1b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f664f443054424c4b51673841414141692f7370696465722d6d616e2d6e6f2d7761792d686f6d652d6d617276656c2d73747564696f732e676966" width="350px" />
   <div align="left">
-     <img src="https://camo.githubusercontent.com/d9337697df3337ad40b9da7c6baea855f4a621a3fb5b33af1ee696bffa359f60/68747470733a2f2f6d656469612e74656e6f722e636f6d2f697649516257493571653841414141692f7370696465722d6d616e2d6e6f2d7761792d686f6d652d6d617276656c2d73747564696f732e676966" width="300px"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2000&pause=700&color=FFD700&center=true&vCenter=true&width=600&lines=⚡+Goodbye,+until+next+time!;🌟+Thanks+for+visiting!;🌞+Shine+bright!" alt="Typing SVG" width="450px"/>
+    <div align="center">
+       <img src="https://camo.githubusercontent.com/d9337697df3337ad40b9da7c6baea855f4a621a3fb5b33af1ee696bffa359f60/68747470733a2f2f6d656469612e74656e6f722e636f6d2f697649516257493571653841414141692f7370696465722d6d616e2d6e6f2d7761792d686f6d652d6d617276656c2d73747564696f732e676966" width="300px"/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2000&pause=700&color=FFD700&center=true&vCenter=true&width=600&lines=⚡+Goodbye,+until+next+time!;🌟+Thanks+for+visiting!;🌞+Shine+bright!" alt="Typing SVG" width="450px"/>
+    </div>
   </div>
 </p>
 
