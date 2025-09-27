@@ -40,8 +40,6 @@
   <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="80px" height="95px">
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img  src="https://github.com/Sumonta056/sumonta056/blob/main/images/header.png?raw=true" />
@@ -74,6 +72,8 @@
     </div>
   </div>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
