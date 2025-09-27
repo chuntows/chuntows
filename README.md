@@ -34,16 +34,9 @@
  <img src="https://img.shields.io/badge/GitHub_Stats-00BFFF?style=for-the-badge&logo=github&label=" />
 
 <p align="center">
-  <!-- GIF trái -->
   <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="70px" height="95px">
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chuntows&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" height="130" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuntows&layout=compact&hide_border=true&bg_color=00000000" height="130" />
-  
-  <!-- GIF phải -->
+  <img src="https://github-readme-stats.vercel.app/api?username=chuntows&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=FFFFFF&icon_color=FFD700" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuntows&layout=compact&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=FFFFFF" height="150" />
   <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="80px" height="95px">
 </p>
 
