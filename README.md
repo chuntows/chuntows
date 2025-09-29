@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://img.shields.io/badge/_<_About_Me_>_-FF1493?style=for-the-badge&logo=aboutdotme&label=" />
+<img src="https://img.shields.io/badge/_<About_Me>_-FF1493?style=for-the-badge&logo=aboutdotme&label=" />
 <div align="center">
   <table>
   <tr>
@@ -31,7 +31,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <img src="https://img.shields.io/badge/GitHub_Stats-00BFFF?style=for-the-badge&logo=github&label=" />
+ <img src="https://img.shields.io/badge/<GitHub_Stats>-00BFFF?style=for-the-badge&logo=github&label=" />
 
 <p align="center">
   <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="70px" height="95px">
@@ -47,7 +47,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<img src="https://img.shields.io/badge/_<_Skills_>_-32CD32?style=for-the-badge&logo=skillshare&label=" />
+<img src="https://img.shields.io/badge/_<Skills>_-32CD32?style=for-the-badge&logo=skillshare&label=" />
 <div align="center">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40" alt="Java" />
   <img src="https://img.icons8.com/color/48/javascript.png" height="40" alt="JavaScript" />
